@@ -11,7 +11,7 @@ GITHUB WS INSTRUCTIONS
 -	BEGINNER PULL REQUEST 2 & ADVANCED PULL REQ 3: Add name to your project’s Contributors README
 -	BEGINNER PULL REQUEST 3: Issue a pull request that adds a line of documentation to our website’s code
 -	ADVANCE PULL REQUEST 4: Check out our website’s existing issues and create a PR to fix something or create an issue that someone else can fix!
--	BEGINNER PULL REQUEST 4: Make a PR that contributes to your project!
+-	BEGINNER PULL REQUEST 4: Make a PR that contributes to your project, or add a description to your repository!
 
 -	EACH MEMBER: Talk about your project, decide what you aim for your code to achieve currently.
 -	EACH MEMBER: Create an issue in your project repo that is relevant to one small part of your project!
