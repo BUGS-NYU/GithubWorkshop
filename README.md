@@ -15,4 +15,14 @@ GITHUB WS INSTRUCTIONS
 
 -	EACH MEMBER: Talk about your project, decide what you aim for your code to achieve currently.
 -	EACH MEMBER: Create an issue in your project repo that is relevant to one small part of your project!
--	EACH MEMBER: Add yourself on the hacktoberfest website so that you get a free tee shirt from Github! 
+-	EACH MEMBER: Add yourself on the hacktoberfest website so that you get a free tee shirt from Github! You need 4 pull requests by the 31st of October to be sent a tee shirt. Here is the website: hacktoberfest.digitalocean.com
+
+
+
+
+
+If you missed our meeting: Please complete as many of these steps as you can, and reach out for help if you need it! You are still eligible to recieve a tee shirt!
+
+
+Happy hacking!
+
