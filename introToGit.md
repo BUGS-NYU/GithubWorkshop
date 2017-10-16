@@ -21,13 +21,20 @@ the [Hello World project](https://guides.github.com/activities/hello-world/) (10
         - what do the _diffs_ show? 
         - what does it mean to _merge_ a pull request? 
 
+- [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1) - let the Octocat guide you through
+some basic Git command line tools. (And if you are new to command line, don't worry! this one is in a browser window!) 
+
 - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E) - very non-tech explanation of the major ideas behind using distributed version control system for running a project  
 
 - [Introduction • GitHub & Git Foundations](https://www.youtube.com/watch?v=FyfwLX4HAxM) - basic material, but uses a lot of jargon that may be tricky to follow if you have never used version control before 
+
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/) - the title says it all; and it comes with a [cheatsheet](http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf) 
         
 - Now that you know the basics ...
     - [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)  
     - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - this is a great tutorial on `Git`, and it is nice to know that GitHub is not the only kid on the block 
+    - `git help` - this is the instruction (enter it on a command line) that displays information about all of the different git commands      
+    
 
 # Getting involved and starting projects
 - [3 easy steps to submitting a GitHub pull request](https://opensource.com/life/16/3/submit-github-pull-request?utm_campaign=intrel) by Liran Tal
