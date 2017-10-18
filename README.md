@@ -8,7 +8,7 @@ GITHUB WS INSTRUCTIONS
 -	ADVANCED PULL REQUEST 2: Add a “Contributors” doc to your project repo OR Add a “Readme” doc to your project repo OR Add a “Community Guidelines” doc to your repo OR Add a “License” doc. To make a License: Create a new file in your fork that’s called LICENSE. You’ll have a variety of templates to choose from! Pick the MIT License. If all 4 docs have been made, issue a PR that adds to the README or add to the Community Guidelines docs. Look up examples of good ones!
 -	BEGINNER PULL REQUEST 2 & ADVANCED PULL REQ 3: Add name to your project’s Contributors README
 -	BEGINNER PULL REQUEST 3: Issue a pull request that adds a line of documentation to our website’s code
--	ADVANCE PULL REQUEST 4: Check out our website’s existing issues and create a PR to fix something or create an issue that someone else can fix!
+-	ADVANCED PULL REQUEST 4: Check out our website’s existing issues and create a PR to fix something or create an issue that someone else can fix!
 -	BEGINNER PULL REQUEST 4: Make a PR that contributes to your project, or add a description to your repository!
 
 -	EACH MEMBER: Talk about your project, decide what you aim for your code to achieve currently.
