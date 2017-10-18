@@ -4,8 +4,6 @@ GITHUB WS INSTRUCTIONS
 -	EACH MEMBER: Locate BUGS@NYU on Github
 
 -	BEGINNER PULL REQUEST 1 & ADVANCED PULL REQUEST 1: Add your name & major to BUGS “Contributors” Repo’s README
--	MENTORS: Add the members to your team using their Github handles
--	Once on the team:
 
 -	ADVANCED PULL REQUEST 2: Add a “Contributors” doc to your project repo OR Add a “Readme” doc to your project repo OR Add a “Community Guidelines” doc to your repo OR Add a “License” doc. To make a License: Create a new file in your fork that’s called LICENSE. You’ll have a variety of templates to choose from! Pick the MIT License. If all 4 docs have been made, issue a PR that adds to the README or add to the Community Guidelines docs. Look up examples of good ones!
 -	BEGINNER PULL REQUEST 2 & ADVANCED PULL REQ 3: Add name to your project’s Contributors README
