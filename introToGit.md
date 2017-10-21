@@ -49,6 +49,11 @@ that people ask you for your GitHub profile, take a look at the following articl
 - [GitHub Is Your Resume Now](http://anti-pattern.com/github-is-your-resume-now) by Brandon Weiss
 - [The impact GitHub is having on your software career](https://opensource.com/article/17/3/impact-github-software-career) by Josh Wulf 
 
+# The GitHub Student Developer Pack
+
+GitHub has created a Student Developer Pack with many partner friends to give students free access to some developer tools such as private repositories on GitHub, AWS Credit, a suite of Microsoft Azure etc. (the list is LONG!) 
+
+You can get your developer pack here: https://education.github.com/pack
 
 # Want to add  to this list? 
 
