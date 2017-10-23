@@ -1,5 +1,7 @@
 GITHUB WS INSTRUCTIONS
 
+Made a change
+
 -	EACH MEMBER: Make a Github account.
 -	EACH MEMBER: Locate BUGS@NYU on Github
 
